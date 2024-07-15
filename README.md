@@ -7,22 +7,14 @@ Welcome to Focus Spark, your one-stop shop for all your needs. Discover amazing 
 <a href="https://www.focusspark.tech" target="_blank"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" /><a>
 <a href="https://www.focusspark.tech" target="_blank"><img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo" /></a>
 
-
 <p align='center'>
- <img width="196" height="426" src='./docs/focus_store_3.png'/>
-  <img width="196" height="426" src='./docs/focus_store_1.png'/>
-  <img  width="196" height="426" src='./docs/focus_store_2.png'/>
+ <img width="250" height="444" src='./docs/focus_store_3.png'/>
+  <img width="250" height="444" src='./docs/focus_store_1.png'/>
+  <img  width="250" height="444" src='./docs/focus_store_2.png'/>
  
 </p>
 
-
-
-
-
-
-
 </p>
-
 
 ## Get started
 
@@ -56,6 +48,7 @@ npm run reset-project
 ```
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+
 ## <img src="https://www.animatedimages.org/data/media/235/animated-email-image-0597.gif" width="45" height="45"/>Contact
 
 <p align="center">
